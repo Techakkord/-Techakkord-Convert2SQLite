@@ -10,4 +10,3 @@ C:\Users\jonak\source\repos\C5\C5\obj\Debug\netcoreapp3.1\C5.csproj.CoreCompileI
 C:\Users\jonak\source\repos\C5\C5\obj\Debug\netcoreapp3.1\C5.dll
 C:\Users\jonak\source\repos\C5\C5\obj\Debug\netcoreapp3.1\C5.pdb
 C:\Users\jonak\source\repos\C5\C5\obj\Debug\netcoreapp3.1\C5.genruntimeconfig.cache
-C:\Users\jonak\source\repos\C5\C5\obj\Debug\netcoreapp3.1\C5.csprojAssemblyReference.cache
