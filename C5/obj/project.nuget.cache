@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rq8/lmASKaa3TYsPAMmqYkSN5txEHksvXSzv3krhKJhD5a6NQWHnuuNmVI5g4kiwCsgVGRnOrJzBXdRR9kn53Q==",
+  "dgSpecHash": "2YGRyfhu2r99OW32S46z9U+qbcLkDcVk7ElFJe5/92RaC4kywawaLXMGl/m7LeZfEJqxeXfBmwNbrZpBTcbqkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jonak\\source\\repos\\C5\\C5\\C5.csproj",
+  "projectFilePath": "C:\\Users\\jonak\\source\\repos\\Convert2SQLite\\C5\\C5.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonak\\source\\repos\\C5\\C5\\C5.csproj": {}
+    "C:\\Users\\jonak\\source\\repos\\Convert2SQLite\\C5\\C5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonak\\source\\repos\\C5\\C5\\C5.csproj": {
+    "C:\\Users\\jonak\\source\\repos\\Convert2SQLite\\C5\\C5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonak\\source\\repos\\C5\\C5\\C5.csproj",
+        "projectUniqueName": "C:\\Users\\jonak\\source\\repos\\Convert2SQLite\\C5\\C5.csproj",
         "projectName": "C5",
-        "projectPath": "C:\\Users\\jonak\\source\\repos\\C5\\C5\\C5.csproj",
+        "projectPath": "C:\\Users\\jonak\\source\\repos\\Convert2SQLite\\C5\\C5.csproj",
         "packagesPath": "C:\\Users\\jonak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonak\\source\\repos\\C5\\C5\\obj\\",
+        "outputPath": "C:\\Users\\jonak\\source\\repos\\Convert2SQLite\\C5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

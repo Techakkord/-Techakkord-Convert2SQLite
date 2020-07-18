@@ -10,3 +10,15 @@ C:\Users\jonak\source\repos\C5\C5\obj\Debug\netcoreapp3.1\C5.csproj.CoreCompileI
 C:\Users\jonak\source\repos\C5\C5\obj\Debug\netcoreapp3.1\C5.dll
 C:\Users\jonak\source\repos\C5\C5\obj\Debug\netcoreapp3.1\C5.pdb
 C:\Users\jonak\source\repos\C5\C5\obj\Debug\netcoreapp3.1\C5.genruntimeconfig.cache
+C:\Users\jonak\Source\Repos\Convert2SQLite\C5\bin\Debug\netcoreapp3.1\C5.exe
+C:\Users\jonak\Source\Repos\Convert2SQLite\C5\bin\Debug\netcoreapp3.1\C5.deps.json
+C:\Users\jonak\Source\Repos\Convert2SQLite\C5\bin\Debug\netcoreapp3.1\C5.runtimeconfig.json
+C:\Users\jonak\Source\Repos\Convert2SQLite\C5\bin\Debug\netcoreapp3.1\C5.runtimeconfig.dev.json
+C:\Users\jonak\Source\Repos\Convert2SQLite\C5\bin\Debug\netcoreapp3.1\C5.dll
+C:\Users\jonak\Source\Repos\Convert2SQLite\C5\bin\Debug\netcoreapp3.1\C5.pdb
+C:\Users\jonak\Source\Repos\Convert2SQLite\C5\obj\Debug\netcoreapp3.1\C5.AssemblyInfoInputs.cache
+C:\Users\jonak\Source\Repos\Convert2SQLite\C5\obj\Debug\netcoreapp3.1\C5.AssemblyInfo.cs
+C:\Users\jonak\Source\Repos\Convert2SQLite\C5\obj\Debug\netcoreapp3.1\C5.csproj.CoreCompileInputs.cache
+C:\Users\jonak\Source\Repos\Convert2SQLite\C5\obj\Debug\netcoreapp3.1\C5.dll
+C:\Users\jonak\Source\Repos\Convert2SQLite\C5\obj\Debug\netcoreapp3.1\C5.pdb
+C:\Users\jonak\Source\Repos\Convert2SQLite\C5\obj\Debug\netcoreapp3.1\C5.genruntimeconfig.cache
